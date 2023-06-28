@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "collapsibleTree"]
 	path = collapsibleTree
 	url = https://github.com/adeelk93/collapsibletree
-	shallow = true
-	registered = true
